@@ -2,6 +2,7 @@
   "expo": {
     "name": "tesla-app-clone",
     "slug": "tesla-app-clone",
+    "description": "Tesla app clone made by lekandev",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,6 +21,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.lekandev.teslaAppClone",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
